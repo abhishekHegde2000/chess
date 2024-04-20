@@ -1,2 +1,26 @@
-dist
-node_modules
+# Dependency directories
+node_modules/
+
+# Built files
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# TypeScript build files
+*.tsbuildinfo
+
